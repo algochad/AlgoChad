@@ -29,29 +29,15 @@ Built a strong foundation in mathematics, physics, and programming fundamentals.
 
 ## 🛠 Technical Skills
 
-### 💻 Programming Languages
-C · C++ · C# · Java · Python · Rust · JavaScript
-
-### ⚙️ Full-stack & Frameworks
-Remix Run V2 · React Router · Next.js · Blazor.NET · React · jQuery · ASP.NET · Spring Boot · NestJS
-
-### 🤖 Data Science, ML & Tools
-OpenCV · TensorFlow · Keras · Scikit Learn · PyTorch · Alteryx · IBM SPSS
-
-### 🌐 APIs & Communication
-RESTful APIs · SOAP · WebSockets · RPC · Message Queues · GraphQL · gRPC · tRPC
-
-### 🗄 Databases & ORMs
-MSSQL · PostgreSQL · SQLite · MySQL · Prisma ORM · Entity Framework Core · Spring Data JPA
-
-### ☁️ Platforms, DevOps & Infrastructure
-Firebase · Supabase · Clerk · Docker · Kubernetes · Docker Swarm  
-Windows IIS · Linux · Windows · AWS · GCP · Azure
-
-### 📱 Apps & Embedded Systems
-Electron · Maui.NET · PyQT5 · Java Swing · C# WPF · Kotlin  
-Capacitor · React Native (Expo) · Android Studio (Java) · MIT App Inventor  
-Arduino · ESP32 · Raspberry Pi
+| **Category** | **Tools & Technologies** |
+|---------------|--------------------------|
+| **💻 Programming Languages** | C · C++ · C# · Java · Python · Rust · JavaScript |
+| **⚙️ Frameworks & Full-stack** | Remix Run V2 · React Router · Next.js · Blazor.NET · React · jQuery · ASP.NET · Spring Boot · NestJS |
+| **🤖 Data Science & ML** | OpenCV · TensorFlow · Keras · Scikit Learn · PyTorch · Alteryx · IBM SPSS |
+| **🌐 APIs & Communication** | RESTful APIs · SOAP · WebSockets · RPC · Message Queues · GraphQL · gRPC · tRPC |
+| **🗄 Databases & ORMs** | MSSQL · PostgreSQL · SQLite · MySQL · Prisma ORM · Entity Framework Core · Spring Data JPA |
+| **☁️ Platforms & DevOps** | Firebase · Supabase · Clerk · Docker · Kubernetes · Docker Swarm · AWS · GCP · Azure |
+| **📱 Apps & Embedded Systems** | Electron · Maui.NET · PyQT5 · Java Swing · C# WPF · Kotlin · Capacitor · React Native (Expo) · Android Studio (Java) · Arduino · ESP32 · Raspberry Pi |
 
 ---
 
@@ -59,58 +45,42 @@ Arduino · ESP32 · Raspberry Pi
 
 ### **Full-stack Software Engineer**  
 **MicroSource Inc.** *(2024 – Present)*  
-Designing and developing scalable full-stack applications using React.js, Remix, and Node.js.  
-Implementing backend services with NestJS and Prisma, and full-stack solutions using ASP.NET MVC and EF Core.  
-Managing SQL Server and PostgreSQL databases, integrating RESTful APIs, implementing message queues, and ensuring secure authentication (OAuth).  
-Mentoring interns and junior developers, fostering a culture of learning and technical excellence.
-
----
+- Develop scalable full-stack applications using React.js, Remix, and Node.js.  
+- Implement backend services with NestJS and Prisma; integrate ASP.NET MVC and EF Core systems.  
+- Manage SQL Server and PostgreSQL databases, secure APIs, and mentor interns.
 
 ### **Full-stack Software Developer**  
 **I-Asiatic Innovations Phils., Inc.** *(2023 – 2024)*  
-Developed enterprise-grade solutions using React, ASP.NET Core, Blazor.NET, Maui.NET, Django, and IBM Cast Iron.  
-Specialized in backend optimization, web development, and system integrations (SOAP/REST).  
-Handled efficient data access with Entity Framework, SQL Server, and PostgreSQL.  
-Automated workflows using Alteryx and mentored interns for growth and project success.
+- Built enterprise-grade solutions using React, ASP.NET Core, Blazor.NET, and Django.  
+- Specialized in backend optimization, API integration, and workflow automation via Alteryx.  
+- Supervised and mentored development interns.
 
----
+### **Freelance IoT & Software Developer** *(2021 – 2023)*  
+- Built cross-platform IoT software integrated with machine learning models.  
+- Optimized embedded systems for real-world applications.
 
-### **Freelance IoT & Software Developer**  
-**(2021 – 2023)**  
-Built diverse software and IoT projects integrating machine learning models.  
-Developed cross-platform applications and optimized embedded systems for real-world use cases.
-
----
-
-### **Programming & Engineering Tutor**  
-**Private Tutoring (2020 – 2022)**  
-Taught students programming fundamentals, data structures & algorithms, and OOP concepts.  
-Covered multiple languages including Python, Java, C, C++, and C#.
+### **Programming & Engineering Tutor** *(2020 – 2022)*  
+- Taught data structures, algorithms, and OOP using Python, Java, C, C++, and C#.  
 
 ---
 
 ## 🏆 Achievements
 
-### 🥇 **Champion – Code Fest: Eat; Code; Sleep; (2023)**  
-*STI College Muñoz-EDSA*  
-Solved a series of complex programming challenges in under 3 hours, showcasing advanced data structure and algorithmic expertise.
-
-### 🥈 **1st Runner Up – NCR Regional CpE Challenge (2022)**  
-*ICpEP.SE*  
-Demonstrated excellence in C programming, achieving top results against top-performing regional competitors.
-
-### 🏅 **8th Place – National Level CpE Challenge C Programming (2023)**  
-*ICpEP.SE / IRCCETE*  
-Excelled in the national-level competition, reflecting mastery of C programming and problem-solving under pressure.
+- 🥇 **Champion – Code Fest: Eat; Code; Sleep; (2023)** – STI College Muñoz-EDSA  
+- 🥈 **1st Runner Up – NCR Regional CpE Challenge (2022)** – ICpEP.SE  
+- 🏅 **8th Place – National Level CpE Challenge C Programming (2023)** – ICpEP.SE / IRCCETE  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlgoChad&theme=radical&hide_border=true" alt="GitHub Streak" /><br/>
-  <img src="https://algochad-readme-stats-git-main-algochads-projects.vercel.app/api?username=AlgoChad&show_icons=true&theme=radical" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoChad&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlgoChad&theme=radical&hide_border=true" height="165px" />
+  <img src="https://algochad-readme-stats-git-main-algochads-projects.vercel.app/api?username=AlgoChad&show_icons=true&theme=radical&hide_border=true" height="165px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoChad&theme=radical&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
 ---
