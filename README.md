@@ -1,27 +1,21 @@
-
 # Hi, I'm Jhon Burn Villamor 👋  
 **Software & IoT Developer | Full-stack Engineer | Machine Learning Enthusiast**
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 I'm a strategic thinker with a passion for problem-solving and exploration. With a diverse background in engineering, physics, and computer science, I thrive on tackling complex challenges head-on. My expertise spans programming, artificial intelligence, web and mobile development, API integration, and cloud computing. Whether working solo or in a team, I aim to deliver excellence and create meaningful impact.
 
 </td>
-<td width="45%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlgoChad&theme=radical&hide_border=true" height="130px" />
-</p>
+<td width="50%" valign="top" align="center">
 
-<p align="center">
-  <img src="https://algochad-readme-stats-git-main-algochads-projects.vercel.app/api?username=AlgoChad&show_icons=true&theme=radical&hide_border=true" height="130px" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlgoChad&theme=radical&hide_border=true" width="95%" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoChad&theme=radical&show_icons=true&hide_border=true&layout=compact" height="130px" />
-</p>
+<img src="https://algochad-readme-stats-git-main-algochads-projects.vercel.app/api?username=AlgoChad&show_icons=true&theme=radical&hide_border=true" width="95%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoChad&theme=radical&show_icons=true&hide_border=true&layout=compact" width="95%" />
 
 </td>
 </tr>
