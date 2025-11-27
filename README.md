@@ -34,6 +34,31 @@ I'm a strategic thinker with a passion for problem-solving and exploration. With
 </tr>
 </table>
 
+---
+
+## 💼 Professional Experience
+
+### **Full-stack Software Engineer**  
+**MicroSource Inc.** *(2024 – Present)*  
+- Develop scalable full-stack applications using React.js, Remix, and Node.js.  
+- Implement backend services with NestJS and Prisma; integrate ASP.NET MVC and EF Core systems.  
+- Manage SQL Server and PostgreSQL databases.  
+- Build secure APIs and mentor interns.
+
+### **Full-stack Software Developer**  
+**I-Asiatic Innovations Phils., Inc.** *(2023 – 2024)*  
+- Built enterprise-level systems using React, ASP.NET Core, Blazor.NET, and Django.  
+- Specialized in backend optimization and API integrations.  
+- Automated workflows using Alteryx and supervised intern developers.
+
+### **Freelance IoT & Software Developer** *(2021 – 2023)*  
+- Developed IoT software integrated with ML-based models.  
+- Optimized embedded systems for deployment-ready performance.
+
+### **Programming & Engineering Tutor** *(2020 – 2022)*  
+- Taught DSA and OOP in Python, Java, C, C++, and C#.  
+
+---
 
 ## 🎓 Education & Background
 
@@ -67,30 +92,6 @@ Strengthened core fundamentals in mathematics, physics, and programming.
 | **🗄 Databases & ORMs** | MSSQL · PostgreSQL · SQLite · MySQL · Prisma ORM · Entity Framework Core · Spring Data JPA |
 | **☁️ Platforms & DevOps** | Firebase · Supabase · Clerk · Docker · Kubernetes · Docker Swarm · AWS · GCP · Azure |
 | **📱 Apps & Embedded Systems** | Electron · Maui.NET · PyQT5 · Java Swing · C# WPF · Kotlin · Capacitor · React Native (Expo) · Android Studio (Java) · Arduino · ESP32 · Raspberry Pi |
-
----
-
-## 💼 Professional Experience
-
-### **Full-stack Software Engineer**  
-**MicroSource Inc.** *(2024 – Present)*  
-- Develop scalable full-stack applications using React.js, Remix, and Node.js.  
-- Implement backend services with NestJS and Prisma; integrate ASP.NET MVC and EF Core systems.  
-- Manage SQL Server and PostgreSQL databases.  
-- Build secure APIs and mentor interns.
-
-### **Full-stack Software Developer**  
-**I-Asiatic Innovations Phils., Inc.** *(2023 – 2024)*  
-- Built enterprise-level systems using React, ASP.NET Core, Blazor.NET, and Django.  
-- Specialized in backend optimization and API integrations.  
-- Automated workflows using Alteryx and supervised intern developers.
-
-### **Freelance IoT & Software Developer** *(2021 – 2023)*  
-- Developed IoT software integrated with ML-based models.  
-- Optimized embedded systems for deployment-ready performance.
-
-### **Programming & Engineering Tutor** *(2020 – 2022)*  
-- Taught DSA and OOP in Python, Java, C, C++, and C#.  
 
 ---
 
