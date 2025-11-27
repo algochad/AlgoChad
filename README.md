@@ -1,20 +1,31 @@
-# Hi, I'm Jhon Burn Villamor 👋
+---
 
+# Hi, I'm Jhon Burn Villamor 👋  
 **Software & IoT Developer | Full-stack Engineer | Machine Learning Enthusiast**
 
-I'm a strategic thinker with a passion for problem-solving and exploration. With a diverse background in engineering, physics, and computer science, I thrive on tackling complex challenges head-on. My expertise spans across various domains including programming, artificial intelligence, web and mobile app development, API integration, and cloud computing. Whether working solo or in a team, my goal is to deliver excellence and drive positive impact in everything I do.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlgoChad&theme=radical&hide_border=true" height="165px" />
+  <img src="https://algochad-readme-stats-git-main-algochads-projects.vercel.app/api?username=AlgoChad&show_icons=true&theme=radical&hide_border=true" height="165px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoChad&theme=radical&show_icons=true&hide_border=true&layout=compact" />
+</p>
+
+
+I'm a strategic thinker with a passion for problem-solving and exploration. With a diverse background in engineering, physics, and computer science, I thrive on tackling complex challenges head-on. My expertise spans across programming, artificial intelligence, web and mobile app development, API integration, and cloud computing. Whether working solo or in a team, I aim to deliver excellence and create meaningful impact.
 
 ---
 
 ## 🎓 Education & Background
 
 **Bachelor of Science in Computer Engineering**  
-*STI College Muñoz-EDSA and Colegio de San Lorenzo (2019–2023)*  
-Specialized in software engineering, IoT systems, and machine learning applications with a strong foundation in data structures and algorithms.
+*STI College Muñoz-EDSA & Colegio de San Lorenzo (2019–2023)*  
+Specialized in software engineering, IoT systems, and machine learning with a strong foundation in data structures and algorithms.
 
 **Senior High School – STEM Strand**  
 *STI College Novaliches (2017–2019)*  
-Built a strong foundation in mathematics, physics, and programming fundamentals.
+Strengthened core fundamentals in mathematics, physics, and programming.
 
 ---
 
@@ -47,20 +58,21 @@ Built a strong foundation in mathematics, physics, and programming fundamentals.
 **MicroSource Inc.** *(2024 – Present)*  
 - Develop scalable full-stack applications using React.js, Remix, and Node.js.  
 - Implement backend services with NestJS and Prisma; integrate ASP.NET MVC and EF Core systems.  
-- Manage SQL Server and PostgreSQL databases, secure APIs, and mentor interns.
+- Manage SQL Server and PostgreSQL databases.  
+- Build secure APIs and mentor interns.
 
 ### **Full-stack Software Developer**  
 **I-Asiatic Innovations Phils., Inc.** *(2023 – 2024)*  
-- Built enterprise-grade solutions using React, ASP.NET Core, Blazor.NET, and Django.  
-- Specialized in backend optimization, API integration, and workflow automation via Alteryx.  
-- Supervised and mentored development interns.
+- Built enterprise-level systems using React, ASP.NET Core, Blazor.NET, and Django.  
+- Specialized in backend optimization and API integrations.  
+- Automated workflows using Alteryx and supervised intern developers.
 
 ### **Freelance IoT & Software Developer** *(2021 – 2023)*  
-- Built cross-platform IoT software integrated with machine learning models.  
-- Optimized embedded systems for real-world applications.
+- Developed IoT software integrated with ML-based models.  
+- Optimized embedded systems for deployment-ready performance.
 
 ### **Programming & Engineering Tutor** *(2020 – 2022)*  
-- Taught data structures, algorithms, and OOP using Python, Java, C, C++, and C#.  
+- Taught DSA and OOP in Python, Java, C, C++, and C#.  
 
 ---
 
@@ -68,25 +80,12 @@ Built a strong foundation in mathematics, physics, and programming fundamentals.
 
 - 🥇 **Champion – Code Fest: Eat; Code; Sleep; (2023)** – STI College Muñoz-EDSA  
 - 🥈 **1st Runner Up – NCR Regional CpE Challenge (2022)** – ICpEP.SE  
-- 🏅 **8th Place – National Level CpE Challenge C Programming (2023)** – ICpEP.SE / IRCCETE  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlgoChad&theme=radical&hide_border=true" height="165px" />
-  <img src="https://algochad-readme-stats-git-main-algochads-projects.vercel.app/api?username=AlgoChad&show_icons=true&theme=radical&hide_border=true" height="165px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoChad&theme=radical&show_icons=true&hide_border=true&layout=compact" />
-</p>
+- 🏅 **8th Place – National CpE Challenge – C Programming (2023)** – ICpEP.SE  
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-burn-villamor-4115a021a/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AlgoChad)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-burn-villamor-4115a021a/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AlgoChad)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jhonburnvillamor@gmail.com)
