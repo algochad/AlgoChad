@@ -3,23 +3,37 @@
 
 <table>
 <tr>
+
+<!-- LEFT COLUMN -->
 <td width="50%" valign="top">
 
 I'm a strategic thinker with a passion for problem-solving and exploration. With a diverse background in engineering, physics, and computer science, I thrive on tackling complex challenges head-on. My expertise spans programming, artificial intelligence, web and mobile development, API integration, and cloud computing. Whether working solo or in a team, I aim to deliver excellence and create meaningful impact.
 
+<br><br>
+
+<!-- ⭐ MOVED HERE — Your Contributions / Streak Card -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlgoChad&theme=radical&hide_border=true" width="95%" />
+
 </td>
 
+<!-- RIGHT COLUMN -->
 <td width="50%" valign="top" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlgoChad&theme=radical&hide_border=true" width="95%" />
 
 <img src="https://algochad-readme-stats-git-main-algochads-projects.vercel.app/api?username=AlgoChad&show_icons=true&theme=radical&hide_border=true" width="95%" />
 
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoChad&theme=radical&show_icons=true&hide_border=true&layout=compact" width="95%" />
 
+<br/>
+
+<img src="https://github-contributions.vercel.app/api/streaks?username=AlgoChad&theme=radical" width="95%" />
+
 </td>
+
 </tr>
 </table>
+
 
 ## 🎓 Education & Background
 
