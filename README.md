@@ -9,8 +9,6 @@
 
 I'm a strategic thinker with a passion for problem-solving and exploration. With a diverse background in engineering, physics, and computer science, I thrive on tackling complex challenges head-on. My expertise spans programming, artificial intelligence, web and mobile development, API integration, and cloud computing. Whether working solo or in a team, I aim to deliver excellence and create meaningful impact.
 
-<br><br>
-
 <!-- ⭐ MOVED HERE — Your Contributions / Streak Card -->
 <img src="https://algochad-readme-stats-git-main-algochads-projects.vercel.app/api?username=AlgoChad&show_icons=true&theme=radical&hide_border=true" width="95%" />
 
