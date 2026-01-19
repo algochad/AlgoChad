@@ -14,6 +14,8 @@ I'm a strategic thinker with a passion for problem-solving and exploration. With
 <!-- ⭐ MOVED HERE — Your Contributions / Streak Card -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlgoChad&theme=radical&hide_border=true" width="95%" />
 
+<img width="676" height="745" alt="image" src="https://github.com/user-attachments/assets/dd05d659-91bc-47c4-b214-6c36b41ed06c" />
+
 </td>
 
 <!-- RIGHT COLUMN -->
@@ -26,9 +28,6 @@ I'm a strategic thinker with a passion for problem-solving and exploration. With
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoChad&theme=radical&show_icons=true&hide_border=true&layout=compact" width="95%" />
 
 <br/>
-
-<img src="<img width="676" height="745" alt="image" src="https://github.com/user-attachments/assets/dd05d659-91bc-47c4-b214-6c36b41ed06c" />
-" width="95%" />
 
 </td>
 
