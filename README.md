@@ -27,7 +27,8 @@ I'm a strategic thinker with a passion for problem-solving and exploration. With
 
 <br/>
 
-<img src="https://github-contributions.vercel.app/api/streaks?username=AlgoChad&theme=radical" width="95%" />
+<img src="<img width="676" height="745" alt="image" src="https://github.com/user-attachments/assets/dd05d659-91bc-47c4-b214-6c36b41ed06c" />
+" width="95%" />
 
 </td>
 
